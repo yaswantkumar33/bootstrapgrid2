@@ -1,0 +1,74 @@
+/* custom styling */
+*{
+    text-align: center;
+}
+
+
+
+.cushei{
+    height: 100px;
+}
+.cushei2{
+    height: 500px; ;
+}
+.cushei3{
+    height: 500px;
+    background-color: #27F7E7;
+
+}
+
+.AG1{
+    background-color: #27F7E7;
+}
+.AG2-parent{
+    height: 500px;
+    background-color: rgba(155, 89, 182, 0.9);
+}
+.AG3{
+    background-color: #27F7E7;
+}
+.AG4{
+    height: 100px;
+    background-color: #eee;
+}
+.AG5{
+    height: 100PX;
+    background-color: #eee;
+}
+.AG6{
+    background-color: #F15431;
+    height: 100px;
+}
+.AG7-parent{
+    background-color: #494BDC;
+    height: 300px;
+}
+.AG8{
+    height: 100PX;
+    background-color: white;
+}
+.AG9{
+    height: 100PX;
+    background-color: white;
+}
+.AG10{
+    background-color: #E723EA;
+    height: 100px;
+}
+
+
+.BOX1{
+    background: #6650BA;
+
+}
+.BOX2{
+    background: #22B268;
+    
+
+}
+.BOX3{
+    background: #6650BA;
+    
+
+}
+
